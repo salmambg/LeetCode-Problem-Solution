@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef2a5e40-f4e2-4311-a2d8-a9125cc400a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode-Solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ABCTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ArmstrongDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ArrayOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ArrayOperation2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ArrayPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ArrayString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CapitalLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CircleArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Counting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Counting10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/DaySwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Diamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/DoWhileLoopDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/EvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/FactorialDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/FibonacciDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/LoopTen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MathDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MultiArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/MultiArray2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/PalindromeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Pattern9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/PositiveNegative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Practice9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/PracticeTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/PrimeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Problem1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Reactangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SeriesDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SmallCapital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SmallLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SumOfDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SumOfNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SwitchDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/TemperatureConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Traingle2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Triangle3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Triangle4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Triangle5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/TriangleArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/TrueFalse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/VowelConsonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/practice19.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QtEgPKgBxPWlTHKwnzZMEVRQCi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/programming&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LeetCode-Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiple" />
+      <module name="LeetCode-Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.multiple" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef2a5e40-f4e2-4311-a2d8-a9125cc400a3" name="Changes" comment="" />
+      <created>1686164589812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686164589812</updated>
+    </task>
+    <servers />
+  </component>
+</project>
