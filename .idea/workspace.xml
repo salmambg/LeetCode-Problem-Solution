@@ -7,6 +7,7 @@
     <list default="true" id="ef2a5e40-f4e2-4311-a2d8-a9125cc400a3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Four_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Four_sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/ABCTriangle.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Addition.java" beforeDir="false" />
@@ -125,6 +126,13 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration name="Four_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Four_sum" />
+      <module name="LeetCode-Solution" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="LeetCode-Solution" />
@@ -148,6 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Four_sum" />
         <item itemvalue="Application.powMain" />
         <item itemvalue="Application.multiple" />
         <item itemvalue="Application.Main" />
