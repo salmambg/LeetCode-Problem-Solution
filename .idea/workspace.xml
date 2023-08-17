@@ -124,7 +124,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/programming&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Four_sum">
+  <component name="RunManager">
     <configuration name="Four_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Four_sum" />
       <module name="LeetCode-Solution" />
